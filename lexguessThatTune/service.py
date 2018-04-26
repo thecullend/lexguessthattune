@@ -13,9 +13,9 @@ from pprint import pprint
 
 
 scope = 'user-library-read'
-CLIENT_ID='b5bc60fcca844bf4a4f53dfdbe5a1740'
-CLIENT_SECRET='780122ebe21646f686d51a160c1b7d02'
-username='hd2mu909nudbei8e23skwbjel'
+CLIENT_ID='XXXX'
+CLIENT_SECRET='XXXXXX'
+username='XXXXXXXXX'
 
 
 client_credentials_manager = SpotifyClientCredentials(client_id = CLIENT_ID, client_secret = CLIENT_SECRET)
